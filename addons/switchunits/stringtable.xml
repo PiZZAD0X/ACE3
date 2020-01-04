@@ -64,7 +64,11 @@
         </Key>
         <Key ID="STR_ACE_SwitchUnits_EnableSwitchUnits_DisplayName">
             <English>Enable switch side</English>
-            <French>Activer le changement de camp</French>
+            <French>Permettre le changement de camp</French>
+            <Chinese>啟用陣營切換</Chinese>
+            <Czech>Povolit změnu strany</Czech>
+            <Portuguese>Habilita troca de time</Portuguese>
+            <Japanese>陣営切り替えを有効化</Japanese>
         </Key>
         <Key ID="STR_ACE_SwitchUnits_SwitchToWest_DisplayName">
             <English>Switch to West?</English>
@@ -73,7 +77,7 @@
             <German>Nach BLUFOR wechseln?</German>
             <Czech>Přesunout k BLUFOR?</Czech>
             <Portuguese>Trocar para Oeste?</Portuguese>
-            <French>Changer en BLUFOR</French>
+            <French>Passage en BLUFOR</French>
             <Hungarian>Átváltás BLUFOR-ra?</Hungarian>
             <Russian>На синих?</Russian>
             <Italian>Cambia per BLUFOR?</Italian>
@@ -105,7 +109,7 @@
             <German>Nach OPFOR wechseln?</German>
             <Czech>Přesunout k OPFOR?</Czech>
             <Portuguese>Trocar para Leste?</Portuguese>
-            <French>Changer en OPFOR</French>
+            <French>Passage en OPFOR</French>
             <Hungarian>Átváltás OPFOR-ra?</Hungarian>
             <Russian>На красных?</Russian>
             <Italian>Cambia per OPFOR?</Italian>
@@ -137,7 +141,7 @@
             <German>Nach INDFOR wechseln?</German>
             <Czech>Přesunout k INDFOR?</Czech>
             <Portuguese>Trocar para Indenpendente</Portuguese>
-            <French>Changer en Indépendant</French>
+            <French>Passage en Indépendant</French>
             <Hungarian>Átváltás INDFOR-ra?</Hungarian>
             <Russian>На независимых?</Russian>
             <Italian>Cambia per INDFOR?</Italian>
@@ -169,7 +173,7 @@
             <German>Nach CIVILIAN wechseln?</German>
             <Czech>Přesunout k CIVILISTŮM?</Czech>
             <Portuguese>Trocar para Civis?</Portuguese>
-            <French>Changer en Civil</French>
+            <French>Passage en Civil</French>
             <Hungarian>Átváltás civilre?</Hungarian>
             <Russian>На гражданских?</Russian>
             <Italian>Cambia per Civili?</Italian>
@@ -201,7 +205,7 @@
             <German>Aktiviere Sicherheitszone?</German>
             <Czech>Povolit bezpečné oblasti?</Czech>
             <Portuguese>Habilitar zona segura?</Portuguese>
-            <French>Activer la zone sécurisée</French>
+            <French>Créer une zone sécurisée</French>
             <Hungarian>Biztonságos zóna engedélyezése?</Hungarian>
             <Russian>Безопасная зона</Russian>
             <Italian>Abilita Zona Sicura?</Italian>
@@ -215,7 +219,7 @@
             <Polish>Aktywuje bezpieczną strefę wokół jednostek przeciwnika. Gracze nie mogą zmieniać strony wewnątrz tej strefy.</Polish>
             <Spanish>Habilita una zona segura alrededor de las unidades enemigas. Los jugadores no pueden cambiar de unidad dentro de la zona segura.</Spanish>
             <German>Aktiviere eine Sicherheitszone um feindliche Einheiten? Spieler können nicht zu Einheiten in der Sicherheitszone wechseln.</German>
-            <Czech>Povolit bezpečnou zónu kolem nepřátelských jednotek? Hráči se nemohou změnit strany/jednotky uvnitř bezpečné zóny.</Czech>
+            <Czech>Povolit bezpečnou zónu kolem nepřátelských jednotek? Hráči nemohou změnit strany/jednotky uvnitř bezpečné zóny.</Czech>
             <Portuguese>Habilitar uma zona segur ao redor das unidades inimigas? Jogadores não conseguirão trocar para unidades dentro dessa zona segura.</Portuguese>
             <French>Active une zone de sécurité autour des unités ennemies. Les joueurs ne peuvent pas changer de camp à l'intérieur de cette zone.</French>
             <Hungarian>Engedélyezve legyen-e egy biztonságos zóna az ellenségek körül? A játékosok nem tudnak a biztonságos zónán belüli egységekre váltani.</Hungarian>
